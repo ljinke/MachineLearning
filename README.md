@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning excerises under jupyter notebook
+Machine Learning exercise under jupyter notebook
